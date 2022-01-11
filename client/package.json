@@ -11,7 +11,7 @@
     "lint": "npx eslint .",
     "lint-fix": "npx eslint ./src/ --fix",
     "test": "jest",
-    "test-watch": "jest --watch"
+    "test-watch": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
