@@ -9,7 +9,8 @@
     // "disableSourceOfProjectReferenceRedirect": true,  /* Disable preferring source files instead of declaration files when referencing composite projects */
     // "disableSolutionSearching": true,                 /* Opt a project out of multi-project reference checking when editing. */
     // "disableReferencedProjectLoad": true,  
-    "jsx": "react",           /* Reduce the number of projects loaded automatically by TypeScript. */
+    "jsx": "react",   
+            /* Reduce the number of projects loaded automatically by TypeScript. */
 
     /* Language and Environment */
     "target": "es5" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
@@ -101,7 +102,8 @@
 
   },
   "include": [
-    "./src/*"
+    "./src/*",
+    
   ],
   "exclude": [
     "node_modules", "dist", "coverage"
