@@ -25,7 +25,6 @@ module.exports = {
     'object-curly-newline': 'off',
     'no-debugger': 'off',
     '@typescript-eslint/no-inferrable-types': 'off',
-    '@typescript-eslint/no-var-requires': 'off',
      'linebreak-style': 'off',
     'arrow-parens': 'off',
     'eol-last': 'off',
