@@ -22,6 +22,7 @@ module.exports = {
     'import/extensions': 'off',
     'no-console': 'off',
     'import/prefer-default-export': 'off',
+    '@typescript-eslint/no-unused-vars': 'warn',
     'linebreak-style': 'off',
     'arrow-parens': 'off',
     'eol-last': 'off',
