@@ -32,6 +32,7 @@ module.exports = {
     'no-useless-return': 'off',
     'no-trailing-spaces': 'off',
     'no-shadow': 'off',
+    'no-debugger': 'off',
   },
 };
 
