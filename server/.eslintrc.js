@@ -34,5 +34,6 @@ module.exports = {
     'no-useless-return': 'off',
     'no-trailing-spaces': 'off',
     'no-shadow': 'off',
+    '@typescript-eslint/no-unused-vars': 'warn',
   },
 };
