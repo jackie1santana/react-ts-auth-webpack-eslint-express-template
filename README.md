@@ -3,6 +3,6 @@
 
 - To update all packages/react to the latest versions.. run 
 
-npm i -g npm-check-updates
-ncu -u
-npm install
+- npm i -g npm-check-updates
+- ncu -u
+- npm install
